@@ -1,7 +1,7 @@
 {
-  "name": "reactscratch",
+  "name": "Code-playgrounds",
   "version": "1.0.0",
-  "description": "Awesome React Starter Kit that can scale for an enterprise application with the very easy maintainable codebase.",
+  "description": "Integrated Development Environment for building websites.",
   "main": "index.jsx",
   "scripts": {
     "test": "jest",
@@ -12,11 +12,7 @@
     "eslint": "eslint --config ./.eslintrc --ext .js,jsx ./src --fix",
     "storybook": "start-storybook",
     "prettify": "prettier  --config ./.prettierrc --ext .js,jsx,.scss ./src --write",
-    "stylelint": "stylelint  --config ./.stylelintrc --aei .scss ./src",
-    "build-dev-ssr": "npm run build-dev && better-npm-run build-dev-ssr",
-    "build-prod-ssr": "npm run build-prod && better-npm-run build-prod-ssr",
-    "start-dev-ssr": "npm run build-dev-ssr && node ./server-build/server.js --inspect",
-    "start-prod-ssr": "npm run build-prod-ssr && node ./server-build/server.js"
+    "stylelint": "stylelint  --config ./.stylelintrc --aei .scss ./src"
   },
   "betterScripts": {
     "build-dev-ssr": {
@@ -64,6 +60,8 @@
     }
   },
   "keywords": [
+    "Code",
+    "playgrounds",
     "react",
     "javascript",
     "webpack",
@@ -78,16 +76,18 @@
     "redux",
     "saga"
   ],
-  "author": "Anand (@aanandgupta193) & Shubham (@shubhamsWEB)",
+  "author": "Shubham Agrawal (@shubhamsWEB)",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.11.6",
     "@babel/node": "^7.10.5",
     "@storybook/react": "^5.3.21",
     "axios": "^0.20.0",
+    "codemirror": "^5.58.1",
     "eslint-plugin-prettier": "^3.1.4",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
+    "react-codemirror2": "^7.2.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
