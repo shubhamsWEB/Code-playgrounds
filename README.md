@@ -1,8 +1,5 @@
-![CI](https://github.com/shubhamsWEB/Code-playgrounds/workflows/Node.js%20CI/badge.svg?branch=master)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shubhamsWEB/Code-playgrounds)
 [![GitHub license](https://img.shields.io/github/license/shubhamsWEB/Code-playgrounds)](https://github.com/shubhamsWEB/Code-playgrounds/blob/master/LICENSE)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![Build Status](https://travis-ci.com/shubhamsWEB/Code-playgrounds.svg?branch=master)](https://travis-ci.com/anandgupta193/react-enterprise-starter-kit)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/29d03780-7500-4437-ba9b-454f0bbeb2a2/deploy-status)](https://code-playgrounds.netlify.app//deploys)
 
 # Code-Playgrounds :fire:
