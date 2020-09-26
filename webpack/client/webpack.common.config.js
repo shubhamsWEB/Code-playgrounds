@@ -56,13 +56,13 @@ module.exports = {
             loader: 'css-loader',
             options: {
               sourceMap: env === 'development',
-              modules: {
-                mode: 'local',
-                exportGlobals: true,
-                localIdentName: env === 'development' ? '[name]__[local]__[hash:base64:5]' : '[hash:base64:5]',
-                context: path.resolve(__dirname, '../../src'),
-                hashPrefix: 'React Enterprice kit',
-              },
+              // modules: {
+              //   mode: 'local',
+              //   exportGlobals: true,
+              //   localIdentName: env === 'development' ? '[name]__[local]__[hash:base64:5]' : '[hash:base64:5]',
+              //   context: path.resolve(__dirname, '../../src'),
+              //   hashPrefix: 'React Enterprice kit',
+              // },
             },
           },
           {
