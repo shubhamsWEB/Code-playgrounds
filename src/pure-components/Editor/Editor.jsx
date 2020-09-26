@@ -1,6 +1,6 @@
 import React from 'react';
 
 const Editor = () => (
-  <h1>Editors</h1>
+  <h1>Editor!!</h1>
 );
 export default Editor;
