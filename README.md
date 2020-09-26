@@ -7,9 +7,9 @@
 
 ![Banner](https://user-images.githubusercontent.com/24511864/87848141-f8d04780-c8fa-11ea-8dae-3dde9fe6a68d.png)
 
-# React Enterprise Starter Kit :fire:
+# Code-Playgrounds :fire:
 
-Highly Scalable, performant and amazing react boilerplate for react developers to get started and improve web building capabilities. This react boilerplate is called enterprise starter kit because it is highly scalable and performant, web developers or industries can directly use this starter kit and create multiple projects.
+Integrated Development Environment for building websites.
 
 ## Features: 
 
@@ -40,7 +40,7 @@ Highly Scalable, performant and amazing react boilerplate for react developers t
   * Github actions for labeling your PR's and build passing status checks using Node CI.
   
 
-### Demo - https://reactenterprisestarterkit.netlify.app/
+### Live Demo - https://code-playgrounds.netlify.app/
 
 
 
@@ -81,24 +81,3 @@ To run Bundle Analyzer
 ```bash
 npm run build-analyze
 ```
-
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/anandgupta193"><img src="https://avatars2.githubusercontent.com/u/24511864?v=4" width="100px;" alt=""/><br /><sub><b>Anand Gupta</b></sub></a><br /><a href="https://github.com/anandgupta193/react-enterprise-starter-kit/commits?author=anandgupta193" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/shubhamsWEB"><img src="https://avatars2.githubusercontent.com/u/32464238?v=4" width="100px;" alt=""/><br /><sub><b>Shubham Agrawal</b></sub></a><br /><a href="https://github.com/anandgupta193/react-enterprise-starter-kit/commits?author=anandgupta193" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Contributions of any kind welcome!
